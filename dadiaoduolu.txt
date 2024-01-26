@@ -1,5 +1,5 @@
 { "urls": [{ "url": "http://www.饭太硬.top/tv", "name": "饭太硬" },
-
+{ "url": "http//qqqwww.xyx", "name": "qqqwww" },
 { "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" },
 
 { "url": "http://xhww.fun/小米/DEMO.json", "name": "小米" },

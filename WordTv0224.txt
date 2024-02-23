@@ -69,7 +69,7 @@ Euronews(欧洲),https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlis
 Fashion TV Engli,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 FashionTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 Fashiontv-,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-Fireplace,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+Feplace,https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 Fonte TV,http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 France | Francop,https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8

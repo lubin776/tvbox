@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "url": "https://gitee.com/lu3589/box/raw/main/jmx4.json",
+      "name": "自用线路"
+    },
+    {
+      "url": "http://ok213.top/tv",
+      "name": "ok线路1"
+    },
+    {
+      "url": "http://ok213.top/ok",
+      "name": "ok线路2"
+    },
+    {
+      "url": "http://ok521.top/tv",
+      "name": "线路3"
+    },
+    {
+      "url": "http://ok521.top/ok",
+      "name": "线路4"
+    }
+      ]
+}

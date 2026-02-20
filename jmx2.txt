@@ -1,26 +1,6 @@
 {
     "spider": "https://gitee.com/jueson/box/raw/main/jmsd/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "http://8.138.7.223/live.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
     "sites": [
         {
             "key": "jueson",
@@ -28,26 +8,6 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        },
-        {
-            "key": "csp_LocalFile",
-            "name": "本地",
-            "type": 3,
-            "api": "csp_LocalFile",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "type_flag": 0
-        },
-        {
-            "key": "哔哩哔哩",
-            "name": "️哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/bili.json"
         },
         {
             "key": "极速资源",

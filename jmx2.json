@@ -1,26 +1,6 @@
 {
     "spider": "https://gitee.com/jueson/box/raw/main/jmsd/yydf.jar;md5;0ef4947f8365f5e439ccfa9228d9e840",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "http://8.138.7.223/live.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "ipv6",
-            "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
     "sites": [
         {
             "key": "jueson",

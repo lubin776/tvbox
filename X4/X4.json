@@ -35,8 +35,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/bili.json",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
+      "ext": "./lib/bili.json",
+      "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
     },
     {
       "key": "feifan",
@@ -541,6 +541,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "本地包",
+      "name": "下载本地包",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/single.json"
     }
   ],
   "parses": [
@@ -760,7 +770,7 @@
   "ads": [
     "static-mozai.4gtv.tv"
   ],
-    "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "logo": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/spider.jar"
+  "spider": "./spider.jar"
 }

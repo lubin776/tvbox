@@ -772,5 +772,5 @@
   ],
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "logo": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
-  "spider": "./spider.jar"
+  "spider": "./lib/spider.jar"
 }

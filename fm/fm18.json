@@ -1,6 +1,12 @@
 {
   "spider": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/fm/fm.jar;md5;e59dd939c16d155e3214d4c4511dc492",
-  "sites": [
+  "sites": [    {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "https://gitee.com/lu3589/box/raw/main/qqqwww0312/lib/drpy2.min.js",
+      "ext": "https://gitee.com/lu3589/box/raw/main/qqqwww0312/lib/douban.js"
+    },
     {
       "key": "黑料",
       "name": "黑料",

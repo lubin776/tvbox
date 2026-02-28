@@ -1,11 +1,13 @@
-{
-        "name": "本地包",
+[
+    {
+        "name": "本地包1",
         "list": [
             {
                 "name": "更新本地包",
-                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/X4.zip",
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/tvboxjueson.zip",
                 "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
                 "version": "兼容老设备"
             }
         ]
-}
+    }
+]

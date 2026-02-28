@@ -39,6 +39,24 @@
       "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
     },
     {
+      "key": "哔哩合集",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "cookie": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/bili_cookie.txt",
+        "json": "./lib/哔哩合集.json"
+      },
+      "timeout": 10
+    },
+    {
       "key": "feifan",
       "name": "非凡资源",
       "type": 1,

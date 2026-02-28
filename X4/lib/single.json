@@ -1,9 +1,9 @@
 [
     {
-        "name": "下载",
+        "name": "推荐",
         "list": [
             {
-                "name": "本地包",
+                "name": "下载本地包",
                 "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/X4.zip",
                 "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
                 "version": "兼容老设备"

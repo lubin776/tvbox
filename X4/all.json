@@ -51,7 +51,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "cookie": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/bili_cookie2.txt",
+        "cookie": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/bili_cookie.txt",
         "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/哔哩合集.json"
       },
       "timeout": 10

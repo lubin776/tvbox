@@ -51,7 +51,7 @@
         "ratio": 1.597
       },
       "ext": {
-        "cookie": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/bili_cookie.txt",
+        "cookie": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/bili_cookie2.txt",
         "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/哔哩合集.json"
       },
       "timeout": 10
@@ -560,9 +560,22 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+            "key": "配置",
+            "name": "配置",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
     {
       "key": "本地包",
-      "name": "下载本地包",
+      "name": "本地包",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,

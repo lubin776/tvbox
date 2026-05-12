@@ -37,7 +37,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": ".lib//版本.json"
+            "ext": "./lib/版本.json"
         },
         {
             "key": "玩偶",

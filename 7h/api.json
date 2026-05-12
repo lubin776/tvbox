@@ -1,5 +1,5 @@
 {
-    "spider": "./7h.jar",
+    "spider": "./lib/7h.jar",
     "logo": "",
     "sites": [
         {
@@ -349,7 +349,7 @@
             "key": "4K",
             "name": "指南｜4K",
             "type": 3,
-            "api": "./4K指南.py",
+            "api": "./lib/4K指南.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -390,7 +390,7 @@
             "key": "星芽",
             "name": "星芽｜短剧",
             "type": 3,
-            "api": "./星芽短剧.py",
+            "api": "./lib/星芽短剧.py",
             "searchable": 1,
             "changeable": 0
         },
@@ -417,7 +417,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./夸克.json"
+            "ext": "./lib/夸克.json"
         },
         {
             "key": "UC",
@@ -431,7 +431,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./UC.json"
+            "ext": "./lib/UC.json"
         },
         {
             "key": "百度云盘",
@@ -458,7 +458,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./阿里.json"
+            "ext": "./lib/阿里.json"
         },
         {
             "key": "本地",

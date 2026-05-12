@@ -5,13 +5,13 @@
             {
                 "name": "当前版本",
                 "url": "",
-                "icon": "./lib/本地包.png",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
                 "version": ""
             },
             {
-                "name": "下载本地包",
-                "url": "https://gitee.com/qihaoyyds/qihao/raw/master/本地包.zip",
-                "icon": "./lib/本地包.png",
+                "name": "点击下载",
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
                 "version": "04.22"
             }
         ]

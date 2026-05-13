@@ -131,7 +131,7 @@
       "searchable": 1,
       "ext": {
         "json": "./lib/bilibili.json",
-        "cookie": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/bili_cookie.txt"
+        "cookie": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/bili_cookie.txt"
       },
       "style": {
         "type": "rect",

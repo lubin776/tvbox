@@ -12,6 +12,13 @@
       "quickSearch": 0,
       "changeable": 0
     },
+       {
+            "key": "文件",
+            "name": "文件┃媒体",
+            "type": 3,
+            "api": "csp_LocalFile",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/Local.jar"
+        },
     {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
@@ -25,6 +32,22 @@
       },
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "Bilipz",
+      "name": "哔哩 | 配置",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "./lib/bilipz.json"
       }
     },
     {

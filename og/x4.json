@@ -1,7 +1,7 @@
 {
   "wallpaper": "",
   "logo": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
-  "spider": "./og.jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b",
+  "spider": "./lib/og.jar?id=index;md5;94cc7730ebec586a25a1179bc4b2754b",
   "sites": [
     {
       "key": "豆瓣",

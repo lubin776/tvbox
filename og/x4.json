@@ -11,18 +11,6 @@
       "searchable": 0
     },
     {
-      "key": "配置中心",
-      "name": "配置┃中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "YGP",
       "name": "叨观┃预告",
       "type": 3,

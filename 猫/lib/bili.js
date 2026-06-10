@@ -1,4 +1,4 @@
-var rule = {
+﻿var rule = {
     title:'哔哩影视',
     host:'https://api.bilibili.com',
     url:'/fyclass-fypage&vmid=$vmid',

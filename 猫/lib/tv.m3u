@@ -1,0 +1,6 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 group-title="公告",🎁 全部频道进群免费获取
+https://www.catvod.com/backup.m3u8
+
+#EXTINF:-1 group-title="提示",更多频道请联系管理员
+https://www.catvod.com/backup.m3u8

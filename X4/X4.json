@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "jueson",
-      "name": "豆瓣",
+      "name": "主页┃豆瓣",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -11,7 +11,7 @@
     },
     {
       "key": "YGP",
-      "name": "新片",
+      "name": "叨观┃预告",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_LocalFile",
-      "name": "本地",
+      "name": "文件┃媒体",
       "type": 3,
       "api": "csp_LocalFile",
       "searchable": 0,
@@ -28,33 +28,13 @@
       "filterable": 1
     },
     {
-      "key": "ffBBB",
-      "name": "哔站",
-      "type": 3,
-      "api": "csp_Bili",
+      "key": "ds05",
+      "name": "都司资源",
+      "type": 0,
+      "api": "http://y.ds05.cn/zyapi.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/bili.json",
-      "jar": "./lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
-    },
-    {
-      "key": "哔哩合集",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": {
-        "cookie": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/bili_cookie.txt",
-        "json": "./lib/哔哩合集.json"
-      },
-      "timeout": 10
+      "filterable": 1
     },
     {
       "key": "feifan",
@@ -568,7 +548,7 @@
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/single.json"
+      "ext": "./lib/single.json"
     }
   ],
   "parses": [
@@ -790,5 +770,5 @@
   ],
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "logo": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
-  "spider": "./lib/spider.jar"
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/spider.jar"
 }

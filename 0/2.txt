@@ -1,7 +1,7 @@
 {
   "wallpaper": "https://aaa.v.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-  "spider": "./3c2fe19f3ae9dcf760356cb9e958ef48.jpg;md5;7c546ee0441d827c11541a81c5b98a7b",
+"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0526/13/3c2fe19f3ae9dcf760356cb9e958ef48.jpg;md5;7c546ee0441d827c11541a81c5b98a7b",
   "sites": [
     {
       "key": "豆瓣2",

@@ -1,0 +1,4 @@
+下载完成后输入配置地址
+file://柒豪/柒豪4K.json
+clan://localhost/柒豪/柒豪4K.json
+http://127.0.0.1:9978/file/柒豪/柒豪4K.json

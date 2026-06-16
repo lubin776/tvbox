@@ -1,0 +1,8 @@
+{
+    "vod_id": "config_001",
+    "vod_name": "📖 配置说明",
+    "vod_pic": "https://gh-proxy.com/raw.githubusercontent.com/lubin777/tvbox/refs/heads/main/7h/lib/本地包.png",
+    "vod_content": "【使用说明】\n\n1️⃣ 接口地址：http://example.com/api\n2️⃣ 订阅链接：http://example.com/sub\n3️⃣ 更新时间：每天凌晨4点自动更新\n4️⃣ 注意事项：请勿用于商业用途\n5️⃣ 反馈渠道：GitHub Issues\n\n如有问题请先查看此说明。",
+    "vod_play_from": "说明",
+    "vod_play_url": "配置说明$https://example.com/dummy.mp4"
+}

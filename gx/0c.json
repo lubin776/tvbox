@@ -1,0 +1,15 @@
+{
+    "spider": "https://gitee.com/lu3589/776/raw/main/7h/lib/7h.jar",
+    "sites": [
+        {
+            "key": "本地包",
+            "name": "柒豪本地包",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://raw.giteeusercontent.com/lu3589/776/raw/main/gx/lib/版本.json"
+        }
+    ]
+}

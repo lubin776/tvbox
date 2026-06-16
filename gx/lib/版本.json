@@ -4,32 +4,72 @@
         "list": [
             {
                 "name": "点击下载",
-                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/X4.zip",
                 "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
-                "version": "代理线路"
+                "version": "X4代理线路"
             },
             {
                 "name": "点击下载",
-                "url": "https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
-                "icon": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
-                "version": "直连线路"
+                "url": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/X4.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "X4直连线路"
             }
         ]
     },
     {
-        "name": "本地包",
+        "name": "柒豪",
         "list": [
             {
                 "name": "点击下载",
                 "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
                 "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
-                "version": "代理线路"
+                "version": "柒豪代理线路"
             },
             {
                 "name": "点击下载",
                 "url": "https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
-                "icon": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
-                "version": "直连线路"
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "柒豪直连线路"
+            }
+        ]
+    },
+    {
+        "name": "奇奇",
+        "list": [
+            {
+                "name": "点击下载",
+                "url": "http://qiqiv.cn/测试包.zip",
+                "icon": "http://bd.qiqiv.cn/更新.jpg",
+                "version": "奇奇线路1"
+            },
+            {
+                "name": "点击下载",
+                "url": "http://bd.qiqiv.cn/测试包.zip",
+                "icon": "http://bd.qiqiv.cn/更新2.jpg",
+                "version": "奇奇线路2"
+            },
+            {
+                "name": "点击下载",
+                "url": "http://qiqiv.cn/南风.zip",
+                "icon": "http://bd.qiqiv.cn/南风.jpg",
+                "version": "奇奇南风补丁"
+            }
+        ]
+    },
+    {
+        "name": "X4",
+        "list": [
+            {
+                "name": "点击下载",
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/X4.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "X4代理线路"
+            },
+            {
+                "name": "点击下载",
+                "url": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/X4.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "X4直连线路"
             }
         ]
     }

@@ -1,42 +1,42 @@
 [
     {
-        "name": "本地包",
+        "name": "推荐",
         "list": [
-            {
-                "name": "当前版本",
-                "url": "",
-                "icon": "http://127.0.0.1:9978/file/柒豪/logo/本地包.png",
-                "version": ""
-            },
             {
                 "name": "点击下载",
                 "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
-                "icon": "http://127.0.0.1:9978/file/柒豪/logo/本地包.png",
-                "version": "06.10"
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "代理线路"
+            },
+            {
+                "name": "点击下载",
+                "url": "https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "直连线路"
             }
         ]
     },
     {
-        "name": "OK影视",
+        "name": "本地包",
         "list": [
             {
-                "name": "OK影视-手机端",
-                "url": "https://gitee.com/qihaoyyds/qihao/releases/download/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/OK%E5%BD%B1%E8%A7%86-%E6%89%8B%E6%9C%BA%E7%89%88-5.1.5.apk",
-                "icon": "http://127.0.0.1:9978/file/柒豪/logo/OK影视.png",
-                "version": "5.1.5"
+                "name": "点击下载",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "代理线路"
             },
             {
-                "name": "OK影视-电视端",
-                "url": "https://gitee.com/qihaoyyds/qihao/releases/download/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-5.1.5.apk",
-                "icon": "http://127.0.0.1:9978/file/柒豪/logo/OK影视.png",
-                "version": "5.1.5"
+                "name": "点击下载",
+                "url": "https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
+                "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+                "version": "直连线路"
             },
             {
-                "name": "OK影视-海信端",
-                "url": "https://gitee.com/qihaoyyds/qihao/releases/download/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-5.1.5.apk",
-                "icon": "http://127.0.0.1:9978/file/柒豪/logo/OK影视.png",
-                "version": "5.1.5"
-            }
+    "name": "配置教程",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/教程页.json",
+    "icon": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
+    "version": "点我查看"
+}
         ]
     }
 ]

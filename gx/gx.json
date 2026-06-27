@@ -1,16 +1,26 @@
 {
   "logo": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/lib/jueson.jpg",
-    "spider": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/7h.jar",
+    "spider": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/gx/lib/2.jar",
     "sites": [
         {
             "key": "X4菠菜园",
-            "name": "X4本地包",
+            "name": "X4菠菜园本地包",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/gx/lib/本地包.json"
+        },
+        {
+            "key": "柒豪本地包",
+            "name": "柒豪本地包",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://raw.gitcode.com/qihao/qihaoyyds/raw/main/版本.json"
         },
         {
             "key": "奇奇",

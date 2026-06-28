@@ -18,7 +18,7 @@
 		{"type_name":"百家姓","type_id":"百家姓"},
 		{"type_name":"儿童性教育","type_id":"给孩子的第一堂性教育课"}],
 	
-	"filter":{
+	"filters":{
 		"幼儿英语":[
 			{"key":"tid","name":"分类","value":[
 				{"n":"幼儿英语","v":"幼儿英语"},

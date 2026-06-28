@@ -150,7 +150,7 @@
   
 	"filters": {
 		"考公考证": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -201,7 +201,7 @@
 			}
 		],
 		"探索发现超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -252,7 +252,7 @@
 			}
 		],
 		"电影": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -303,7 +303,7 @@
 			}
 		],
 		"鬼畜": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -355,7 +355,7 @@
 		],
 
                                 "一口气沙雕动漫世界末日": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -406,7 +406,7 @@
 			}
 		],
                                 "吴半饱": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -457,7 +457,7 @@
 			}
 		],
                                 "邓炫疯": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -508,7 +508,7 @@
 			}
 		],
                                 "张圣叹": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -559,7 +559,7 @@
 			}
 		],
                                 "唐仁杰": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -610,7 +610,7 @@
 			}
 		],
                                 "石匠旭哥": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -661,7 +661,7 @@
 			}
 		],
                                 "一口气沙雕动漫": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -712,7 +712,7 @@
 			}
 		],
 		"说案": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -800,7 +800,7 @@
 			}
 		],
 		"演讲": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -920,7 +920,7 @@
 			}
 		],
 		"解说": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -1000,7 +1000,7 @@
 			}
 		],
 		"风景4K": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -1220,7 +1220,7 @@
 			}
 		],
 		"MV4K": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -1893,7 +1893,7 @@
 		],
 
 		"帕梅拉": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -1986,7 +1986,7 @@
 		],
 
 		"知名UP主": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2210,7 +2210,7 @@
 			}
 		],
 		"太极拳": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2298,7 +2298,7 @@
 			}
 		],
 		"舞蹈": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2382,7 +2382,7 @@
 			}
 		],
 		"音乐": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2466,7 +2466,7 @@
 			}
 		],
 		"歌曲": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2550,7 +2550,7 @@
 			}
 		],
 		"平面设计教学": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2658,7 +2658,7 @@
 			}
 		],
 		"软件教程": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2774,7 +2774,7 @@
 			}
 		],
 		"Windows": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2825,7 +2825,7 @@
 			}
 		],
 		"小姐姐超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2876,7 +2876,7 @@
 			}
 		],
 		"广场舞超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2927,7 +2927,7 @@
 			}
 		],
 		"舞曲超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -2978,7 +2978,7 @@
 			}
 		],
 		"白噪音超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3029,7 +3029,7 @@
 			}
 		],
 		"搞笑超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3080,7 +3080,7 @@
 			}
 		],
 		"体育超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3131,7 +3131,7 @@
 			}
 		],
 		"4K": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3182,7 +3182,7 @@
 			}
 		],
 		"足球比赛合集超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3233,7 +3233,7 @@
 			}
 		],
 		"篮球超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3284,7 +3284,7 @@
 			}
 		],
 		"动物世界超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3335,7 +3335,7 @@
 			}
 		],
                                 "儿童超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3386,7 +3386,7 @@
 			}
 		],
 		"荒野求生超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3437,7 +3437,7 @@
 			}
 		],
 		"纪录片超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3489,7 +3489,7 @@
 		],
 
 		"食谱": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3593,7 +3593,7 @@
 			}
 		],
 		"健身": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3685,7 +3685,7 @@
 			}
 		],
 		"窗白噪音": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3736,7 +3736,7 @@
 			}
 		],
 		"美食超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -3992,7 +3992,7 @@
 			}
 		],
 		"广场舞": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -4043,7 +4043,7 @@
 			}
 		],
 		"球星": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -4227,7 +4227,7 @@
 			}
 		],
 		"电视剧": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -4280,7 +4280,7 @@
 
                                
 		"相声小品超清": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -4437,7 +4437,7 @@
 			}
 		],
 		"戏曲": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",
@@ -4689,7 +4689,7 @@
 			}
 		],
 		"旅游": [{
-				"key": "order",
+				"key": "duration",
 				"name": "排序",
 				"value": [{
 						"n": "综合排序",

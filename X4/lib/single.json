@@ -35,29 +35,6 @@
         ]
     },
     {
-        "name": "奇奇",
-        "list": [
-            {
-                "name": "点击下载",
-                "url": "http://qiqiv.cn/测试包.zip",
-                "icon": "http://bd.qiqiv.cn/更新.jpg",
-                "version": "奇奇线路1"
-            },
-            {
-                "name": "点击下载",
-                "url": "http://bd.qiqiv.cn/测试包.zip",
-                "icon": "http://bd.qiqiv.cn/更新2.jpg",
-                "version": "奇奇线路2"
-            },
-            {
-                "name": "点击下载",
-                "url": "http://qiqiv.cn/南风.zip",
-                "icon": "http://bd.qiqiv.cn/南风.jpg",
-                "version": "奇奇南风补丁"
-            }
-        ]
-    },
-    {
         "name": "X4",
         "list": [
             {

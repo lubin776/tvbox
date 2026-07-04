@@ -30,13 +30,7 @@
                 "url": "https://raw.githubusercontent.com/qihaoyyds/qihaoyyds/refs/heads/main/本地包.zip",
                 "icon": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
                 "version": "直连线路"
-            },
-            {
-    "name": "配置教程",
-    "url": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/教程页.json",
-    "icon": "https://raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/7h/lib/本地包.png",
-    "version": "点我查看"
-}
+            }
         ]
     }
 ]

@@ -1,0 +1,35 @@
+[{
+        "name": "推荐",
+        "list": [
+            {
+                "name": "代理下载",
+                "url": "https://gh-proxy.com/https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/@秋天.zip",
+                "icon": "http://127.0.0.1:9978/file/柒豪/logo/本地包.png",
+                "version": "代理下载"
+            },
+            {
+                "name": "直链下载",
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/@秋天.zip",
+                "icon": "http://127.0.0.1:9978/file/柒豪/logo/本地包.png",
+                "version": "直链下载"
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "代理下载",
+                "url": "https://gh-proxy.com/https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/@秋天.zip",
+                "icon": "http://127.0.0.1:9978/file/柒豪/logo/本地包.png",
+                "version": "06.20"
+            },
+            {
+                "name": "直链下载",
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/X4/@秋天.zip",
+                "icon": "http://127.0.0.1:9978/file/柒豪/logo/本地包.png",
+                "version": "直链下载"
+            }
+        ]
+    }
+]

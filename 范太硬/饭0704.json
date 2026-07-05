@@ -34,7 +34,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/范太硬/lib/bilipz.json"
+        "json": "./lib/bilipz.json"
       },
       "style": {
         "type": "rect",
@@ -46,7 +46,7 @@
       "name": "文件┃媒体",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/Local.jar"
+      "jar": "./lib/Local.jar"
     },
     {
       "key": "玩偶",
@@ -385,7 +385,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       }
     },
     {
@@ -418,8 +418,8 @@
       "key": "虎牙js",
       "name": "虎牙┃直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -434,8 +434,8 @@
       "key": "斗鱼js",
       "name": "斗鱼┃直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -519,7 +519,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLHJ.json"
+        "json": "./lib/BLHJ.json"
       }
     },
     {
@@ -531,7 +531,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLYCH.json"
+        "json": "./lib/BLYCH.json"
       },
       "style": {
         "type": "rect",
@@ -547,7 +547,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLTS.json"
+        "json": "./lib/BLTS.json"
       },
       "style": {
         "type": "rect",
@@ -563,7 +563,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLXS.json"
+        "json": "./lib/BLXS.json"
       },
       "style": {
         "type": "rect",
@@ -579,7 +579,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLXP.json"
+        "json": "./lib/BLXP.json"
       },
       "style": {
         "type": "rect",
@@ -595,7 +595,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLXQ.json"
+        "json": "./lib/BLXQ.json"
       },
       "style": {
         "type": "rect",
@@ -606,8 +606,8 @@
       "key": "dr_兔小贝",
       "name": "儿童┃启蒙",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -625,7 +625,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/SEJY.json"
+        "json": "./lib/SEJY.json"
       },
       "style": {
         "type": "rect",
@@ -641,7 +641,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/XXKT.json"
+        "json": "./lib/XXKT.json"
       },
       "style": {
         "type": "rect",
@@ -657,7 +657,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/CZKT.json"
+        "json": "./lib/CZKT.json"
       },
       "style": {
         "type": "rect",
@@ -673,7 +673,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/GZKT.json"
+        "json": "./lib/GZKT.json"
       },
       "style": {
         "type": "rect",
@@ -761,7 +761,7 @@
     }
   ],
   "ijk": [],
-  "spider": "https://zl.wpscdn.cn/2026/07/04/space_img/dedbf9ed-e86e-4603-b194-5bd20df8eb4e.jpg;md5;a4a7f967a36e78f6a72ee638585a6a71",
+  "spider": "./lib/fan0704.jar;md5;a4a7f967a36e78f6a72ee638585a6a71",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",

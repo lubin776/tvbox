@@ -230,10 +230,10 @@
     },
     {
       "key": "bili",
-      "name": "B站",
+      "name": "哔哩┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/猫/lib/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/猫/lib/bili.js"
     },
     {

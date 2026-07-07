@@ -229,6 +229,14 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
     },
     {
+      "key": "bili",
+      "name": "B站",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/猫/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/猫/lib/bili.js"
+    },
+    {
       "key": "drpy_js_兔小贝",
       "name": "DRPY┃儿童启蒙",
       "type": 3,
